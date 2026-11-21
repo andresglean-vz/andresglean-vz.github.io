@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.andresglean_vz.madrid2027",
+        "sha256_cert_fingerprints": ["55:5A:FE:F9:CB:E2:E4:42:86:92:54:92:81:1A:8A:DB:D6:EB:3A:FB:FD:D3:D4:8B:94:DD:A6:D1:92:10:39:83"]
+      }
+    }]
